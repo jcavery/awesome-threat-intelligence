@@ -1874,14 +1874,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             As part of the project several publications and software projects have been published.
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="docs/pyramidofpain.pdf" target="_blank">Pyramid of Pain</a>
-        </td>
-        <td>
-            The Pyramid of Pain is a graphical way to express the difficulty of obtaining different levels of indicators and the amount of resources adversaries have to expend when obtained by defenders.
-        </td>
-    </tr>
+   
     <tr>
         <td>
             <a href="https://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511" target="_blank">Structured Analytic Techniques For Intelligence Analysis</a>
