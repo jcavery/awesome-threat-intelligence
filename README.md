@@ -43,14 +43,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             Apility.io is a Minimal and Simple anti-abuse API blacklist lookup tool. It helps users to know immediately if an IP, Domain or Email is blacklisted. It automatically extracts all the information in realtime from multiple sources.
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml" target="_blank">APT Groups and Operations</a>
-        </td>
-        <td>
-            A spreadsheet containing information and intelligence about APT groups, operations and tactics.
-        </td>
-    </tr>
+   
     <tr>
         <td>
             <a href="https://www.binarydefense.com/banlist.txt" target="_blank">Binary Defense IP Banlist</a>
