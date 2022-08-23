@@ -1,23 +1,16 @@
 # awesome-threat-intelligence
 A curated list of awesome Threat Intelligence resources
-
 A concise definition of Threat Intelligence: *evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard*.
-
 Feel free to [contribute](CONTRIBUTING.md).
-
 - [Sources](#sources)
 - [Formats](#formats)
 - [Frameworks & Platforms](#frameworks-and-platforms)
 - [Tools](#tools)
 - [Research, Standards & Books](#research)
-
-
 ## Sources
-
 Most of the resources listed below provide lists and/or APIs to obtain (hopefully) up-to-date information with regards to threats.
 Some consider these sources as threat intelligence, opinions differ however.
 A certain amount of (domain- or business-specific) analysis is necessary to create true threat intelligence.
-
 <table>
     <tr>
         <td>
@@ -27,7 +20,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet. It's mission is to help make Web safer by providing a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online..
         </td>
     </tr>
-
    <tr>
         <td>
             <a href="https://osint.digitalside.it/" target="_blank">DigitalSide Threat-Intel</a>
@@ -544,11 +536,8 @@ Mrlooquer has created the first threat feed focused on systems with dual stack. 
         </td>
     </tr>
 </table>
-
 ## Formats
-
 Standardized formats for sharing Threat Intelligence (mostly IOCs).
-
 <table>
     <tr>
         <td>
@@ -623,11 +612,8 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
         </td>
     </tr>
 </table>
-
 ## Frameworks and Platforms
-
 Frameworks, platforms and services for collecting, analyzing, creating and sharing Threat Intelligence.
-
 <table>
     <tr>
         <td>
@@ -981,13 +967,8 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
     </tr>
 </table>
-
-
-
 ## Tools
-
 All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
-
 <table>
     <tr>
         <td>
@@ -1560,13 +1541,8 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
     </tr>
 </table>
-
-
-
 ## <a name="research"></a>Research, Standards & Books
-
 All kinds of reading material about Threat Intelligence. Includes (scientific) research and whitepapers.
-
 <table>
     <tr>
         <td>
@@ -1723,53 +1699,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             As part of the project several publications and software projects have been published.
         </td>
     </tr>
-   
-    <tr>
-        <td>
-            <a href="https://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511" target="_blank">Structured Analytic Techniques For Intelligence Analysis</a>
-        </td>
-        <td>
-            This book contains methods that represent the most current best practices in intelligence, law enforcement, homeland security, and business analysis.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.mwrinfosecurity.com/assets/Whitepapers/Threat-Intelligence-Whitepaper.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
-        </td>
-        <td>
-            This report by MWR InfoSecurity clearly describes several different types of threat intelligence, including strategic, tactical and operational variations. It also discusses the processes of requirements elicitation, collection, analysis, production and evaluation of threat intelligence. Also included are some quick wins and a maturity model for each of the types of threat intelligence defined by MWR InfoSecurity.
-        </td>
-    </tr>
-  
-    <tr>
-        <td>
-            <a href="https://www.us-cert.gov/tlp" target="_blank">Traffic Light Protocol</a>
-        </td>
-        <td>
-            The Traffic Light Protocol (TLP) is a set of designations used to ensure that sensitive information is shared with the correct audience. It employs four colors to indicate different degrees of sensitivity and the corresponding sharing considerations to be applied by the recipient(s).
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://pan-unit42.github.io/playbook_viewer/" target="_blank">Unit42 Playbook Viewer</a>
-        </td> 
-        <td>
-            The goal of the Playbook is to organize the tools, techniques, and procedures that an adversary uses into a structured format, which can be shared with others, and built upon. The frameworks used to structure and share the adversary playbooks are MITRE's ATT&CK Framework and STIX 2.0
-        </td>    
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.sans.org/reading-room/whitepapers/analyst/who-039-s-cyberthreat-intelligence-how-35767" target="_blank">Who's Using Cyberthreat Intelligence and How?</a>
-        </td>
-        <td>
-            A whitepaper by the SANS Institute describing the usage of Threat Intelligence including a survey that was performed.
-        </td>
-    </tr>
   
 </table>
-
-
-
 ## License
-
 Licensed under [Apache License 2.0](LICENSE).
