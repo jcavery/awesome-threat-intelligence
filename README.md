@@ -536,7 +536,7 @@ Mrlooquer has created the first threat feed focused on systems with dual stack. 
         </td>
     </tr>
 </table>
-## Formats
+## Formats<br>
 Standardized formats for sharing Threat Intelligence (mostly IOCs).
 <table>
     <tr>
