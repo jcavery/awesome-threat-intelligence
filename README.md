@@ -973,8 +973,11 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
     </tr>
 </table>
+
 ## Tools
+
 All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
+
 <table>
     <tr>
         <td>
@@ -1547,8 +1550,11 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
     </tr>
 </table>
-<a name="research"></a>Research, Standards & Books
+
+## Research, Standards & Books
+
 All kinds of reading material about Threat Intelligence. Includes (scientific) research and whitepapers.
+
 <table>
     <tr>
         <td>
