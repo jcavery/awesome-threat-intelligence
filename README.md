@@ -1898,14 +1898,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             This report by MWR InfoSecurity clearly describes several different types of threat intelligence, including strategic, tactical and operational variations. It also discusses the processes of requirements elicitation, collection, analysis, production and evaluation of threat intelligence. Also included are some quick wins and a maturity model for each of the types of threat intelligence defined by MWR InfoSecurity.
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://aisel.aisnet.org/wi2017/track08/paper/3/" target="_blank">Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives</a>
-        </td>
-        <td>
-            A systematic study of 22 Threat Intelligence Sharing Platforms (TISP) surfacing eight key findings about the current state of threat intelligence usage, its definition and TISPs.
-        </td>
-    </tr>
+  
     <tr>
         <td>
             <a href="https://www.us-cert.gov/tlp" target="_blank">Traffic Light Protocol</a>
