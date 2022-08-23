@@ -1541,7 +1541,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
     </tr>
 </table>
-## <a name="research"></a>Research, Standards & Books
+<a name="research"></a>Research, Standards & Books
 All kinds of reading material about Threat Intelligence. Includes (scientific) research and whitepapers.
 <table>
     <tr>
