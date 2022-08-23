@@ -536,8 +536,11 @@ Mrlooquer has created the first threat feed focused on systems with dual stack. 
         </td>
     </tr>
 </table>
-## Formats<br>
+
+## Formats
+
 Standardized formats for sharing Threat Intelligence (mostly IOCs).
+
 <table>
     <tr>
         <td>
@@ -612,8 +615,11 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
         </td>
     </tr>
 </table>
+
 ## Frameworks and Platforms
+
 Frameworks, platforms and services for collecting, analyzing, creating and sharing Threat Intelligence.
+
 <table>
     <tr>
         <td>
